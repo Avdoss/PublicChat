@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 public class ErrorDebugHandler extends DebugHandler
 {
