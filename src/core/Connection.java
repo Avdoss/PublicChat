@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 import java.io.Closeable;
 import java.util.List;
