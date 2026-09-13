@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 import java.io.IOException;
 import java.util.List;
