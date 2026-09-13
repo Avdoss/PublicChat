@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 import java.util.LinkedList;
 import java.util.List;
