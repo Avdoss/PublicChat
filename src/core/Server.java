@@ -1,9 +1,5 @@
 package core;
 
-import lesson2.Book;
-import lesson2.InvalidDataFormatException;
-import lesson2.Student;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.InvalidPathException;
