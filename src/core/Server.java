@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 import lesson2.Book;
 import lesson2.InvalidDataFormatException;
