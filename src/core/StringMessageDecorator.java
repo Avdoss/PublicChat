@@ -1,4 +1,4 @@
-package lesson3;
+package core;
 
 public abstract class StringMessageDecorator implements StringMessage
 {
